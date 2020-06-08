@@ -8,6 +8,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "vinyl": "^2.2.0"
+    "vinyl": "^2.2.0",
+    "vinyl-fs": "^3.0.3"
   }
 }
