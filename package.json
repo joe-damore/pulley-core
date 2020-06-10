@@ -1,0 +1,14 @@
+{
+  "name": "pulley-core",
+  "version": "0.1.0",
+  "description": "Core library for Pulley",
+  "main": "lib/index.js",
+  "repository": "git@github.com:joe-damore/pulley-core.git",
+  "author": "Joe D'Amore <joe@joedamore.me>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "vinyl": "^2.2.0",
+    "vinyl-fs": "^3.0.3"
+  }
+}
